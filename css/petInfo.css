@@ -1,0 +1,36 @@
+img {
+    margin-left: auto;
+    margin-right: auto;
+    width : 50%;
+    height: auto;
+}
+
+body {
+    
+    background-color: Grey;
+}
+
+article,p {
+    color : Black;
+}
+
+p {
+    font-size : 1.5em;
+    font-family: Ariel Black;
+    color : Black;
+}
+
+h1{
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook", "Times New Roman", serif;
+    font-size : 3em;
+}
+
+.myClass {
+    font-family: Ariel Black;
+    color: Blue;
+    font-size : 2em;
+}
+
+.border {
+    border: 6px solid Red;
+}
